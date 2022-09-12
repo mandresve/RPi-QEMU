@@ -9,7 +9,7 @@
 	<qemu:arg value='-m'/>
 	<qemu:arg value='256'/>
 	<qemu:arg value='-hda'/>
-	<qemu:arg value='./2021-05.qcow2'/>
+	<qemu:arg value='./system.qcow2'/>
 	<qemu:arg value='-net'/>
 	<qemu:arg value='nic,macaddr=10:20:30:40:50:66'/>
 	<qemu:arg value='-net'/>
