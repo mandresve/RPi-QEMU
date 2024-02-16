@@ -3,7 +3,7 @@ https://kimtinh.gitlab.io/post/tech/2019_05_20_qemu_rpi/#gsc.tab=0
 https://kimtinh.gitlab.io/post/tech/2019_05_20_qemu_rpi/#gsc.tab=0
 
 <domain type='qemu'>
-  <name>rpi</name>
+  <name>rpi_0</name>
   <uuid>b6dc9356-f772-4f63-bf78-0fe5f9f11923</uuid>
   <memory unit='KiB'>262144</memory>
   <currentMemory unit='KiB'>262144</currentMemory>
